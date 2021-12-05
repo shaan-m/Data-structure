@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(void) {
+int main(void) 
 
   int limit,a[20],option,low,high,mid,temp,key1,key2,flag1=0,flag=0;
   char ch='y';
